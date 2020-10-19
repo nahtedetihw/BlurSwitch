@@ -1,0 +1,10 @@
+Package: com.nahtedetihw.blurswitch
+Name: BlurSwitch
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Version: 1.6
+Architecture: iphoneos-arm
+Description: Blur UISwitch Knobs!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+
